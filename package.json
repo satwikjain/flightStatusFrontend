@@ -2,7 +2,7 @@
   "name": "flight_status",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:5000",
+  "proxy": "https://hackuser89-flightstatusbackend-eubo-code-redirect-3.apps.arolab37nonprod.goindigo.in/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
